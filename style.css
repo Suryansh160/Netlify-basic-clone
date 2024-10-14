@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+}
+
+.firDiv{
+    height: 11vh;
+    background-color: #E8F1FC;
+    padding-left: 9rem;
+    padding-right: 9rem;
+    display: flex;
+   
+}
+.logo{
+    padding-top: 2vh;
+}
+.firDiv option{
+    font-family: "Mulish", sans-serif;
+}
+.logo{
+    height: 7vh;
+    width: 8rem;
+}
+.logo img{
+    height: 7vh;
+    width: 8rem;
+}
+.menu{
+    width: 15rem;
+    padding-left: 2rem;
+    display: flex;
+    justify-content: flex-start;
+}
+.selectTask{
+    outline: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    color: #181A1C;
+    background-color: #E8F1FC;
+}
+.font{
+    font-size: medium;
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+}
+.integrations{
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+.menu2{
+width: 20rem;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+margin-left: 35rem;
+}
+.but{
+    border: none;
+    color: white;
+    font-weight: 680;
+    width: 6rem;
+    height: 6vh;
+    background-color: #4c69e6;
+    border-radius: 8px;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.but:hover{
+    background-color: #2036A1;
+}
+.heroBody{
+    
+}
